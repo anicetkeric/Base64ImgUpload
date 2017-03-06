@@ -124,4 +124,6 @@ function upload(base64Image,ftype){
 
 }
 ```
+# Output
 
+![output](https://github.com/anicetkeric/Base64ImgUpload/blob/master/output.PNG)
